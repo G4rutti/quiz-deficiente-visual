@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import font
+from tkinter import fon
 
 from speak import tocar_audio
 from speak import app_falar
